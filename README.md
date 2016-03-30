@@ -8,7 +8,7 @@ We appreciate your interest and look forward to your questions, comments, clarif
 
 ## HOW TO REVIEW THE DRAFT DOCUMENT
 
-To see the diagram as a scrollable webpage, click [here](http://htmlpreview.github.io/?https://github.com/amiaopensource/amia-org/blob/master/amia_organizationalstructure_DRAFT_2016-03-30.html) for the HTML version.
+To see the diagram as a scrollable webpage, click [here](http://htmlpreview.github.io/?https://github.com/amiaopensource/amia-org/blob/master/amia_organizationalstructure_DRAFT_2016-03-30.html) for the HTML version. Your left-right scroll bar will be at the bottom of your screen.
 
 To download the diagram as an image, you can right-click [here](https://github.com/amiaopensource/amia-org/blob/master/amia_organizationalstructure_DRAFT_2016-03-30.png) (embedded links will not work).
 
