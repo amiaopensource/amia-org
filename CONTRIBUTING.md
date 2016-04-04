@@ -33,4 +33,4 @@ If you'd like to contribute to the repository but are unsure how to do this, ple
 
 ### Design Feedback
 
-The diagram is inteded to be easily readable and comprehensible. If you have a design background and would like to help the maintainers improve clarity, design, or other non-content aspects, please email kgronsbell AT gmail.com and ekemeyer AT gmail.com. 
+The diagram is intended to be easily readable and comprehensible. If you have a design background and would like to help the maintainers improve clarity, design, or other non-content aspects, please email kgronsbell AT gmail.com and ekemeyer AT gmail.com. 
