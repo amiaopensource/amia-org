@@ -12,4 +12,4 @@ To see the diagram as a webpage, click [here](http://htmlpreview.github.io/?http
 
 ## HOW TO LEAVE FEEDBACK
 
-
+Go to our [Contribution Guide](https://github.com/amiaopensource/amia-org/blob/master/CONTRIBUTING.md) for instructions on how to provide feedback.
