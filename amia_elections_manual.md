@@ -40,38 +40,37 @@ These principles apply to every AMIA election and are the underlying basis for t
 
 The Board of Directors, the Elections Committee and the AMIA Office each play a necessary and distinctive role in AMIA elections. This section of the manual outlines these respective roles. During each election cycle, the Board, the Committee and the Office should fulfill their responsibilities in full, while respecting and supporting the roles assigned to the other two parties.
 
-A. The Board of Directors
+### A. The Board of Directors
 
 The Board of Directors has broad oversight authority over AMIA's elections. It establishes the organization and mechanisms for elections, and assumes ultimate responsibility for ensuring that the election process is legal and fair. In other respects, the Board's involvement is limited to avoid conflicts of interest and the appearance of conflict of interests. Specifically, the Board's duties are as follows:
 
 1. The Elections Committee. The Elections Committee is a Committee of the Board. The Board determines the size of the Committee; the Board appoints the chairperson and other members.
 
-a. The Committee should consist of three (3) or more Individual Members of AMIA. An odd number of members is recommended.
+    a. The Committee should consist of three (3) or more Individual Members of AMIA. An odd number of members is recommended.
 
-b. Anyone serving as a Director of the Board must not serve as a member of the Committee. Anyone intending to run for a position on the Board must not serve as a member of the Committee.
+    b. Anyone serving as a Director of the Board must not serve as a member of the Committee. Anyone intending to run for a position on the Board must not serve as a member of the Committee.
 
-c. Membership on the Committee should change over time so that the same group of members does not serve for too long. It is recommended that no one serve on the Committee for more than three election years.
+    c. Membership on the Committee should change over time so that the same group of members does not serve for too long. It is recommended that no one serve on the Committee for more than three election years.
 
-d. In appointing the Committee, the Board should exercise due care to avoid improper political motivations or other unethical behavior, both real and perceived.
+    d. In appointing the Committee, the Board should exercise due care to avoid improper political motivations or other unethical behavior, both real and perceived.
 
 2. Liaison Officer. The Board appoints a Director of the Board to serve as Liaison Officer with the Elections Committee and the AMIA Office. The Liaison Officer must not be a candidate for any office, nor have any other direct interest in the outcome of the election.
 
-The Liaison Officer's duties are as follows:
+    The Liaison Officer's duties are as follows:
 
-a. To act as the primary communications link between the Board and the Committee
-and between the Board and the Office.
+    a. To act as the primary communications link between the Board and the Committee and between the Board and the Office.
 
-b. To notify the Board of issues or questions arising from the election process that require the Board's attention.
+    b. To notify the Board of issues or questions arising from the election process that require the Board's attention.
 
-c. To notify the Committee of issues or questions arising from the election process that require the Committee's attention.
+    c. To notify the Committee of issues or questions arising from the election process that require the Committee's attention.
 
-d. To facilitate the AMIA Office in performing its duties related to the election process.
+    d. To facilitate the AMIA Office in performing its duties related to the election process.
 
-e. To verify on behalf of the Board that the election process is consistent with this manual and the applicable provisions of the AMIA Bylaws.
+    e. To verify on behalf of the Board that the election process is consistent with this manual and the applicable provisions of the AMIA Bylaws.
 
 3. Ballot Measures. Proposed ballot measures may originate from anyone or anywhere within AMIA. However, the Board has sole authority to place measures on the ballot for an association-wide vote. The Board also determines the percentage of votes required for passage.
 
-In promoting (or opposing) a ballot measure, the Board consults with the Elections Committee to ensure that its campaign is consistent with the Principles for Elections (Section II) and Campaign Guidelines and Rules (Section V), as set forth in this manual.
+    In promoting (or opposing) a ballot measure, the Board consults with the Elections Committee to ensure that its campaign is consistent with the Principles for Elections (Section II) and Campaign Guidelines and Rules (Section V), as set forth in this manual.
 
 4. Elections Manual. The Board reviews this manual annually and revises it as necessary or desirable. In so doing, the Board consults closely with the Elections Committee and the AMIA Office. The Board authorizes the manual's use in conducting AMIA elections.
 
@@ -81,76 +80,77 @@ In promoting (or opposing) a ballot measure, the Board consults with the Electio
 
 7. Committee Elections. The Board normally is not involved in elections within Committees of the Membership (CMs). However, the Board may take the following actions if a CM requests assistance or is unable to conduct an election in a fair and timely manner:
 
-a. Assign the AMIA Office and/or Elections Committee to assist the CM in scheduling and conducting the election.
+    a. Assign the AMIA Office and/or Elections Committee to assist the CM in scheduling and conducting the election.
 
-b. Direct the Board liaison to the CM to schedule and conduct the election.
+    b. Direct the Board liaison to the CM to schedule and conduct the election.
 
-c. Appoint a chair for the CM to serve until such time as an election can be scheduled and conducted.
+    c. Appoint a chair for the CM to serve until such time as an election can be scheduled and conducted.
 
 8. Limitations on Authority. The Board's involvement in AMIA elections is limited in two important respects.
 
-a. Neither the Board nor any of its Directors, including the Liaison Officer, has authority over the nomination of candidates.
+    a. Neither the Board nor any of its Directors, including the Liaison Officer, has authority over the nomination of candidates.
 
-b. The Board and its Directors are required to abide by this manual, in detail and in spirit.
+    b. The Board and its Directors are required to abide by this manual, in detail and in spirit.
 
 See Sections VI, VII and VIII for additional details concerning the Board of Directors' duties and responsibilities.
 
-B. The Elections Committee The Elections Committee has primary responsibility for AMIA's board elections and votes on ballot measures. The Committee is expected to organize and conduct these processes in accordance with this manual and the legal requirements of the AMIA Bylaws. In specific cases, it may assist Committees of the Membership with their elections. Specifically, the Committee's duties are as follows:
+### B. The Elections Committee
+
+The Elections Committee has primary responsibility for AMIA's board elections and votes on ballot measures. The Committee is expected to organize and conduct these processes in accordance with this manual and the legal requirements of the AMIA Bylaws. In specific cases, it may assist Committees of the Membership with their elections. Specifically, the Committee's duties are as follows:
 
 1. Election Schedule. In consultation with the AMIA Office, the Committee establishes, announces and implements schedules for conducting association-wide elections, including the annual board elections and votes on ballot measures.
 
 2. Nomination of Candidates: The Committee assembles a strong and balanced preliminary slate of candidates . This slate is developed through discussion within the Committee and nomination from the AMIA membership.
 
-In so doing, the Committee:
+    In so doing, the Committee:
 
-a. Actively solicits recommendations of candidates from AMIA's membership, and identifies other prospective candidates that are well qualified to serve.
+    a. Actively solicits recommendations of candidates from AMIA's membership, and identifies other prospective candidates that are well qualified to serve.
 
-b. Contacts each potential candidate to determine if he or she is willing to be nominated for the Board and serve if elected.
+    b. Contacts each potential candidate to determine if he or she is willing to be nominated for the Board and serve if elected.
 
-No member of the Committee may be nominated. If a Committee member decides to run for the Board, that member must resign prior to any Committee discussions or deliberations concerning the nominating process or potential nominees.
+    No member of the Committee may be nominated. If a Committee member decides to run for the Board, that member must resign prior to any Committee discussions or deliberations concerning the nominating process or potential nominees.
 
 3. Ballot Measures. The Committee contacts the Board of Directors to determine if any measures have been approved for the ballot. If so, the Committee reviews the official language of the measure to ensure that it is factually accurate and non-partisan in nature.
 
 4. Preparation of the Ballot. The Committee gathers information needed for the ballot. Specifically, the Committee:
 
-a. Secures a statement from each candidate, including biographical information and goals or objectives to be pursued if elected. A photograph may also be requested.
+    a. Secures a statement from each candidate, including biographical information and goals or objectives to be pursued if elected. A photograph may also be requested.
 
-b. Obtains from the Board of Directors the official language for any ballot measures.
+    b. Obtains from the Board of Directors the official language for any ballot measures.
 
-c. Forwards all ballot information ­ the candidates' names, statements and photographs (optional), and any ballot measures ­ to the AMIA Office.
+    c. Forwards all ballot information ­ the candidates' names, statements and photographs (optional), and any ballot measures ­ to the AMIA Office.
 
-5. Election Announcements. The Committee announces the election to the AMIA
-membership, and ensures that members have the information needed to participate. The Committee issues reminders to the membership during the election to encourage voting. The Committee announces the election results to the Board, the candidates, and the membership after voting is completed. In carrying out these responsibilities, the Committee may request assistance from the AMIA Office.
+5. Election Announcements. The Committee announces the election to the AMIA membership, and ensures that members have the information needed to participate. The Committee issues reminders to the membership during the election to encourage voting. The Committee announces the election results to the Board, the candidates, and the membership after voting is completed. In carrying out these responsibilities, the Committee may request assistance from the AMIA Office.
 
 6. Oversight of the Election. The Committee exercises oversight responsibility during the voting period to ensure fair and free elections. In so doing, the Committee:
 
-a. Reviews the online voting system recommended by the AMIA Office. Informs the Board of Directors on the system's ability to ensure the confidentiality, accuracy and accountability of the election. Works with the Office to amend or replace the system, if so requested by the Board.
+    a. Reviews the online voting system recommended by the AMIA Office. Informs the Board of Directors on the system's ability to ensure the confidentiality, accuracy and accountability of the election. Works with the Office to amend or replace the system, if so requested by the Board.
 
-b. Approves the electronic ballot and ballot information as prepared and formatted by the AMIA Office; or disapproves and instructs the Office on changes that need to be made.
+    b. Approves the electronic ballot and ballot information as prepared and formatted by the AMIA Office; or disapproves and instructs the Office on changes that need to be made.
 
-c. Monitors campaigning by candidates and by proponents and opponents of ballot measures. Monitors the online voting system. Monitors the voting process by remaining in contact with the AMIA Office and inviting input from AMIA members.
+    c. Monitors campaigning by candidates and by proponents and opponents of ballot measures. Monitors the online voting system. Monitors the voting process by remaining in contact with the AMIA Office and inviting input from AMIA members.
 
-d. Verifies the Office's determination of whether or not a quorum was achieved. Calculates the election results, including vote counts for candidates and ballot measures, and whether or not measures met requirements for passage. Confirms that the election met all legal requirements.
+    d. Verifies the Office's determination of whether or not a quorum was achieved. Calculates the election results, including vote counts for candidates and ballot measures, and whether or not measures met requirements for passage. Confirms that the election met all legal requirements.
 
-e. Prepares and issues a report on the election to the Board of Directors; recommends whether or not the election should be certified. May issue a dissenting opinion to the AMIA membership if the Board acts contrary to its recommendation.
+    e. Prepares and issues a report on the election to the Board of Directors; recommends whether or not the election should be certified. May issue a dissenting opinion to the AMIA membership if the Board acts contrary to its recommendation.
 
 7. Corrective Actions. The Committee responds to violations of the Principles for Elections (Section II) and the Campaign Guidelines and Rules (Section V), as set out in this manual. In so doing, the Committee is authorized to take the following actions as it deems necessary and appropriate:
 
-a. It may contact the offending party and request that the violation be addressed and remedied.
+    a. It may contact the offending party and request that the violation be addressed and remedied.
 
-b. It may inform the Board of Directors of the violation and recommend a course of action for the Board to take.
+    b. It may inform the Board of Directors of the violation and recommend a course of action for the Board to take.
 
-c. It may issue a statement to the AMIA membership concerning the violation, after notifying the Board of its intentions.
+    c. It may issue a statement to the AMIA membership concerning the violation, after notifying the Board of its intentions.
 
-d. It may request that the Board not certify the election, and it may notify the AMIA membership of its request.
+    d. It may request that the Board not certify the election, and it may notify the AMIA membership of its request.
 
 8. Committee Elections. The Committee does not play a formal role in elections within Committees of the Membership (CM). However, it may assist CMs in conducting elections, at the Board's request and on a case-by case basis.
 
 9. Autonomy of the Committee. Although appointed by the Board of Directors, the Committee has autonomy in its nomination of candidates for the Board and the conduct of board elections and votes on ballot measures. In these areas, only the AMIA Bylaws, this Elections Manual, and its own sense of responsibility limit its authority.
 
-See Sections VI, VII and VIII for additional details concerning the Elections Committee's duties and responsibilities.
+    See Sections VI, VII and VIII for additional details concerning the Elections Committee's duties and responsibilities.
 
-C. The AMIA Office
+### C. The AMIA Office
 
 The AMIA Office administers and facilitates AMIA's board elections and votes on ballot measures. In doing so, it works closely with the Elections Committee. It may also facilitate committee elections, if requested to do so by the Board of Directors. Specifically, the Office's duties are as follows:
 
@@ -168,18 +168,17 @@ The AMIA Office administers and facilitates AMIA's board elections and votes on 
 
 7. Administration of Online Voting. To serve as the primary election administrator for the online voting system. In so doing, the Office:
 
-a. Acts as AMIA's liaison with the vendor providing the online system.
+    a. Acts as AMIA's liaison with the vendor providing the online system.
 
-b. Sets-up the electronic ballot. Arranges for any safeguards requested by the
-Elections Committee to protect the confidentiality, accuracy and accountability of the election.
+    b. Sets-up the electronic ballot. Arranges for any safeguards requested by the Elections Committee to protect the confidentiality, accuracy and accountability of the election.
 
-c. Monitors the online voting system throughout the voting period. Reports any difficulties to the Committee, and works with the vendor as needed to resolve any issues.
+    c. Monitors the online voting system throughout the voting period. Reports any difficulties to the Committee, and works with the vendor as needed to resolve any issues.
 
-d. Responds to questions from AMIA members concerning the electronic ballot or online voting system, and assists members in casting and/or verifying their votes.
+    d. Responds to questions from AMIA members concerning the electronic ballot or online voting system, and assists members in casting and/or verifying their votes.
 
-e. Calculates whether or not a quorum was achieved and informs the Committee. Verifies the Committee's calculation of election results, including vote counts for candidates and ballot measures, and whether or not measures met requirements for passage.
+    e. Calculates whether or not a quorum was achieved and informs the Committee. Verifies the Committee's calculation of election results, including vote counts for candidates and ballot measures, and whether or not measures met requirements for passage.
 
-f. Ensures that election information, including vote counts, is retained as required by AMIA's document retention policy.
+    f. Ensures that election information, including vote counts, is retained as required by AMIA's document retention policy.
 
 8. Committee Elections. The Office plays a significant role in elections within Committees of the Membership (CM).
 
@@ -191,7 +190,7 @@ See Sections VI, VII and VIII for additional details concerning the AMIA Office'
 
 AMIA conducts three types of elections: board elections to select officers (President, Secretary and Chief Financial Officer) and directors for the Board of Directors; votes on ballot measures (usually held in conjunction with the general elections); and committee elections to select chairpersons for Committees of the Membership.
 
-A. Board Elections
+### A. Board Elections
 
 1. A board election is held annually. In odd-numbered years (2009, 2011, etc.), AMIA elects a President and three at-large directors to the Board of Directors. In even-numbered years (2010, 2012, etc.), AMIA elects a Secretary, Chief Financial Officer and three at-large directors to the Board of Directors.
 
@@ -207,21 +206,21 @@ A. Board Elections
 
 7. Schedule. The board election should be completed a minimum of six weeks prior to the annual AMIA Conference. Below is a sample schedule with recommended timeframes for key milestones in the election process. This schedule assumes the conference occurs in October. It is provided here solely as a rough guide.
 
-a. December-January: The Board of Directors appoints the Elections Committee, and one of its own members as liaison to the committee.
+    a. December-January: The Board of Directors appoints the Elections Committee, and one of its own members as liaison to the committee.
 
-b. February-March: The Board approves the Elections Manual for use in conducting the election. The Committee issues a "Call for Nominations" to the AMIA membership in which rules for self-nomination by petition are announced. Members are also encouraged to recommend potential candidates for the positions to be filled directly to the Committee.
+    b. February-March: The Board approves the Elections Manual for use in conducting the election. The Committee issues a "Call for Nominations" to the AMIA membership in which rules for self-nomination by petition are announced. Members are also encouraged to recommend potential candidates for the positions to be filled directly to the Committee.
 
-c. April-May: The Committee assembles and announces the preliminary slate of candidates. Following the announcement members may add names to the slate by Nomination by Petition. Individuals intending to add to the slate via nomination by petition have one week to inform the committee and three weeks in which to assemble the requisite number of signees. The final slate of candidates is then assembled. The Committee obtains the information required of each candidate (form of name, statement, photograph) and forwards the information to the AMIA Office.
+    c. April-May: The Committee assembles and announces the preliminary slate of candidates. Following the announcement members may add names to the slate by Nomination by Petition. Individuals intending to add to the slate via nomination by petition have one week to inform the committee and three weeks in which to assemble the requisite number of signees. The final slate of candidates is then assembled. The Committee obtains the information required of each candidate (form of name, statement, photograph) and forwards the information to the AMIA Office.
 
-d. May-June: The Office formats the candidates' statements and prepares the online ballot, subject to the Committee's approval. The Office posts the statements and ballot. The Committee announces the election schedule and slate of candidates to the membership and provides voting instructions.
+    d. May-June: The Office formats the candidates' statements and prepares the online ballot, subject to the Committee's approval. The Office posts the statements and ballot. The Committee announces the election schedule and slate of candidates to the membership and provides voting instructions.
 
-e. July-August: Voting takes place.
+    e. July-August: Voting takes place.
 
-g. August-September: The Office and the Committee (in consultation with the Board) verify that the required quorum has been achieved. Votes are counted, the election is certified and the results are announced.
+    g. August-September: The Office and the Committee (in consultation with the Board) verify that the required quorum has been achieved. Votes are counted, the election is certified and the results are announced.
 
-h. Annual Conference: Newly elected (or re-elected) officers and directors begin their terms of office during AMIA's annual conference in the fall of each year. See Section VI for additional information on board elections.
+    h. Annual Conference: Newly elected (or re-elected) officers and directors begin their terms of office during AMIA's annual conference in the fall of each year. See Section VI for additional information on board elections.
 
-B. Ballot Measures
+### B. Ballot Measures
 
 A ballot measure is brought to the AMIA membership for a vote by the Board of Directors or with the consent of the Board of Directors. Only Individual Members are eligible to vote on ballot measures.
 
@@ -229,7 +228,7 @@ Votes on ballot measures are usually held in conjunction with AMIA's annual boar
 
 See Section VII for additional information on ballot measures.
 
-C. Committee Elections
+### C. Committee Elections
 
 Each Committee of the Membership (CM) is required to elect a chairperson who shall serve for a two-year term. CM elections may be scheduled any time during the second year of the chairperson's term. Voting in CM elections is limited to members of the CM.
 
@@ -239,15 +238,17 @@ See Section VIII for additional information on Committee of the Membership elect
 
 Campaign guidelines and rules are designed to ensure fairness and protect the integrity of AMIA elections, but without restricting free speech and the right to advocate for or against candidates and ballot measures. The Elections Committee plays the primary role in administering these guidelines and rules so as to maintain this balance; however, everyone participating in an election shares in this responsibility.
 
-A. Definition: Campaign activities include any action or communication intended to support or oppose a candidate or ballot measure; or any effort undertaken to gain an advantage for or against a candidate or ballot measure.
+### A. Definition
 
-B. General Guidelines.
+Campaign activities include any action or communication intended to support or oppose a candidate or ballot measure; or any effort undertaken to gain an advantage for or against a candidate or ballot measure.
+
+### B. General Guidelines.
 
 1. Campaigns should be consistent with the Principles for Elections, in both spirit and specific intent. See Section II.
 
 2. Campaigns should be conducted as respectful competitions among colleagues. 
 
-C. Specific Rules.
+### C. Specific Rules.
 
 1. Communications. Candidates, supporters of candidates, and proponents & opponents of ballot measures may use the AMIA-Member list to campaign. Other AMIA communications organs (AMIA Newsletter, AMIA-L, special mailings, e-mail blasts, etc.) may be used only if all interested parties are informed of their use and provided equal access to them.
 
@@ -263,19 +264,27 @@ C. Specific Rules.
 
 7. Board of Directors. Neither the Board, its members acting in official capacities, nor any of its committees and task forces may endorse or otherwise support candidates running for positions on the Board. The Board may, however, support or oppose ballet measures and campaign accordingly, subject to these guidelines and rules.
 
-D. Corrective Actions. The Elections Committee monitors campaigns and enforces these guidelines and rules. See Section III, Paragraph B.7 for a list of actions the Committee is authorized to take in response to any violations.
+### D. Corrective Actions.
+
+The Elections Committee monitors campaigns and enforces these guidelines and rules. See Section III, Paragraph B.7 for a list of actions the Committee is authorized to take in response to any violations.
 
 ## Section VI: Board Elections
 
 AMIA holds an annual association-wide election to select officers and directors to its Board of Directors. What follows is an outline of the election process. See Section IV for general information about the board elections and guidelines for setting the election schedule.
 
-A. Scheduling the Election. The Elections Committee establishes, announces and implements the schedule for conducting the election.
+### A. Scheduling the Election.
 
-B. Nomination of Candidates ­ Members wishing to run for an open AMIA office may be nominated either by inclusion on the slate submitted to the membership by the elections committee or may be nominated by petition of the membership. All interested candidates and their supporters are encouraged to put forth names of prospective candidates during the call for nominations by the elections committee.
+The Elections Committee establishes, announces and implements the schedule for conducting the election.
+
+### B. Nomination of Candidates 
+
+Members wishing to run for an open AMIA office may be nominated either by inclusion on the slate submitted to the membership by the elections committee or may be nominated by petition of the membership. All interested candidates and their supporters are encouraged to put forth names of prospective candidates during the call for nominations by the elections committee.
 
 The elections committee will develop a provisional slate of candidates for the various open AMIA offices at the time prescribed in the election schedule. This will be considered a hard date and the decisions must be reported by the committee even if all offices do not have at least two candidates willing to run. The AMIA Office will post the provisional slate on the members-only section of the AMIA website.
 
-C. Nomination by Petition - If after viewing the provisional slate, any qualified AMIA member wishing to run for any open AMIA office may add their name to the list of candidates on the provisional ballot by the nomination by petition process as outlined in this section.
+### C. Nomination by Petition
+
+If after viewing the provisional slate, any qualified AMIA member wishing to run for any open AMIA office may add their name to the list of candidates on the provisional ballot by the nomination by petition process as outlined in this section.
 
 Within one week of the announcement of the provisional slate of candidates an interested candidate must start the petition process by publicly declaring their intention to run. This will open up the slate of candidates for that particular office for amendment [either board, secretary, treasurer or president]. Declaration by a member for one office will open only that office for amendment. If no members declare their intention to run for a particular office within the one week time frame the provisional slate will become the final slate. The slate may be kept open only by special declaration of the AMIA Board if there is an office for which no nominees have been secured.
 
@@ -283,19 +292,19 @@ All candidates who declare their intention to run through the nomination by peti
 
 Verification of the petitions will be conducted by the Elections Committee and will consist solely of determining if the support of the candidate was intended by the AMIA member submitting the petition. Members who receive the required ten verified petitions will be certified as candidates. The final ballot will include their names in addition to candidates listed on the provisional ballot.
 
-D. Nomination by Committee.
+### D. Nomination by Committee.
 
 1. In nominating candidates for the provisional ballot, the Committee is guided by three sources of information:
 
-a. Recommendations from AMIA members. At the time of the "Call for Nominations," the Committee also solicits suggestions of prospective candidates. In issuing the call, the Committee may make use the AMIA Newsletter, AMIAMember list, AMIA-L, an email blast and/or a special mailing.
+    a. Recommendations from AMIA members. At the time of the "Call for Nominations," the Committee also solicits suggestions of prospective candidates. In issuing the call, the Committee may make use the AMIA Newsletter, AMIAMember list, AMIA-L, an email blast and/or a special mailing.
 
-b. Consultation with AMIA members. The Committee seeks advice from any and all members it feels may be helpful in identifying prospective candidates.
+    b. Consultation with AMIA members. The Committee seeks advice from any and all members it feels may be helpful in identifying prospective candidates.
 
-c. The Committee members' own good judgment.
+    c. The Committee members' own good judgment.
 
-The Committee is bound only by (c), but should give serious consideration to any prospective candidate recommended for nomination by the membership. Both Individual Members and representatives of Institutional Members may make recommendations or be consulted by the Committee.
+    The Committee is bound only by (c), but should give serious consideration to any prospective candidate recommended for nomination by the membership. Both Individual Members and representatives of Institutional Members may make recommendations or be consulted by the Committee.
 
-The Committee does not make final decisions on whom to nominate until after the deadline for AMIA members to submit recommendations, and after the Committee has completed its research and has ample time to discuss its options.
+    The Committee does not make final decisions on whom to nominate until after the deadline for AMIA members to submit recommendations, and after the Committee has completed its research and has ample time to discuss its options.
 
 2. The Committee checks to determine that each prospective candidate is qualified under the AMIA Bylaws to serve on the Board of Directors. Only Individual Members of AMIA are eligible to be officers and directors; members should have joined AMIA prior to being nominated.
 
@@ -307,7 +316,9 @@ The Committee does not make final decisions on whom to nominate until after the 
 
 6. The Committee must keep its discussions and deliberations on prospective candidates in strictest confidence.
 
-E. Selecting the Voting System. The AMIA Office, the Elections Committee and the Board of Directors all play roles in selecting the online voting system.
+### E. Selecting the Voting System.
+
+The AMIA Office, the Elections Committee and the Board of Directors all play roles in selecting the online voting system.
 
 1. The Office recommends to the Board an online voting system that is consistent with the principles of confidentiality, accuracy and accountability. The Office consults with the Committee in evaluating any proposed system.
 
@@ -317,15 +328,17 @@ E. Selecting the Voting System. The AMIA Office, the Elections Committee and the
 
 4. The Office makes the contractual and technical arrangements necessary to secure use of the online voting system, after consultation with the Committee and with approval of the Board.
 
-F. Preparing the Ballot. The Elections Committee and the AMIA Office work together in gathering election information and preparing the ballot.
+### F. Preparing the Ballot.
+
+The Elections Committee and the AMIA Office work together in gathering election information and preparing the ballot.
 
 1. The Committee obtains the following information and documents from each candidate:
 
-a. The preferred form of the candidate's name.
+    a. The preferred form of the candidate's name.
 
-b. A candidate's statement, including biographical information and goals or objectives to be pursued if elected. Statements should be no more than 500 words.
+    b. A candidate's statement, including biographical information and goals or objectives to be pursued if elected. Statements should be no more than 500 words.
 
-c. A photograph of the candidate (optional).
+    c. A photograph of the candidate (optional).
 
 2. The Committee forwards all candidate information and documents to the Office.
 
@@ -337,13 +350,17 @@ c. A photograph of the candidate (optional).
 
 6. The Committee signs-off on the complete electronic ballot and accompanying information. The Committee's approval is required before AMIA members are given access to the online voting system and, therefore, before voting can begin.
 
-G. Announcing the Election. The Elections Committee announces the election to the AMIA membership. The AMIA Office assists with the announcement, as requested by the Committee.
+### G. Announcing the Election.
+
+The Elections Committee announces the election to the AMIA membership. The AMIA Office assists with the announcement, as requested by the Committee.
 
 1. The Committee develops and implements an announcement plan, which may make use of the AMIA Newsletter, AMIA-Member list, AMIA-L, email blasts and/or special mailings. The Committee need not use all of these communication organs, but should not rely on only one to reach all eligible voters.
 
 2. The information announced to the AMIA membership should include: the names of the candidates and the position for which each has been nominated; the schedule for voting, especially the date on which voting ends; and instructions for accessing the online voting system.
 
-H. Conducting the Voting. The AMIA Office serves as the primary administrator of the online voting system. The Elections Committee monitors the system and responds to any significant issues that may arise.
+### H. Conducting the Voting.
+
+The AMIA Office serves as the primary administrator of the online voting system. The Elections Committee monitors the system and responds to any significant issues that may arise.
 
 1. The Office administers the voting system and interfaces with the vendor as needed to resolve technical issues. The Office reports any significant problems to the Committee.
 
@@ -353,15 +370,19 @@ H. Conducting the Voting. The AMIA Office serves as the primary administrator of
 
 4. The Committee responds to AMIA members' inquiries concerning the voting process, especially complaints of irregularities or concerns about the online system.
 
-I. Monitoring the Campaigns. The Elections Committee monitors campaigns of the candidates to ensure that they are consistent with the Principles for Elections and Campaign Guidelines and Rules, as set out in Sections II and V of this manual. The Committee may take corrective actions in response to violations, as specified in Section III, Paragraph B.7 of this manual.
+### I. Monitoring the Campaigns.
 
-J. Certifying the Election. The Board of Directors retains ultimate authority to certify or decertify the election; however the AMIA Office and the Elections Committee both play important roles in this process.
+The Elections Committee monitors campaigns of the candidates to ensure that they are consistent with the Principles for Elections and Campaign Guidelines and Rules, as set out in Sections II and V of this manual. The Committee may take corrective actions in response to violations, as specified in Section III, Paragraph B.7 of this manual.
+
+### J. Certifying the Election.
+
+The Board of Directors retains ultimate authority to certify or decertify the election; however the AMIA Office and the Elections Committee both play important roles in this process.
 
 1. Quorum Requirement. The Office calculates whether or not a quorum for the election has been achieved. It reports this finding to the Committee, which confirms that this legal requirement has or has not been satisfied.
 
-a. If a quorum has been achieved, the Committee proceeds with vote counts.
+    a. If a quorum has been achieved, the Committee proceeds with vote counts.
 
-b. If a quorum has not been achieved, the Committee informs the Board that the election is invalid. The Board then decides how to proceed under the AMIA Bylaws.
+    b. If a quorum has not been achieved, the Committee informs the Board that the election is invalid. The Board then decides how to proceed under the AMIA Bylaws.
 
 2. Vote Counts. The Committee determines the final tally of votes for each candidate. In doing so, at least two members of the Committee must independently check and agree on the tallies; the Office serves as a third witness to confirm the results.
 
@@ -369,13 +390,15 @@ b. If a quorum has not been achieved, the Committee informs the Board that the e
 
 4. Certification. The Board decides whether or not to certify the election. In so doing, the Board should be guided by the Committee's report and should not overturn the Committee's recommendation unless confronted with clear and compelling reasons for doing so.
 
-a. If the election is certified, the Committee and Office proceed with releasing the results.
+    a. If the election is certified, the Committee and Office proceed with releasing the results.
 
-b. If the election is not certified, the Board decides how to proceed under the AMIA Bylaws.
+    b. If the election is not certified, the Board decides how to proceed under the AMIA Bylaws.
 
 5. Dissent. In the event the Board chooses to overturn the Committee's recommendation, the Committee reserves the right to express its dissenting opinion to the AMIA membership.
 
-K. Releasing the Results. The Elections Committee announces the election results to the AMIA membership. The AMIA Office assists with this announcement, as requested by the Committee.
+### K. Releasing the Results.
+
+The Elections Committee announces the election results to the AMIA membership. The AMIA Office assists with this announcement, as requested by the Committee.
 
 1. The Committee notifies each candidate of the election results. No public announcement should be made until all candidates have been notified.
 
@@ -383,7 +406,7 @@ K. Releasing the Results. The Elections Committee announces the election results
 
 3. Vote counts in AMIA board elections are not publicly announced, but are made available to any member upon written request. Requests should be directed to the Office.
 
-This policy is intended to meet two objectives. a) to ensure that vote counts are not suppressed but remain easily obtainable by any member who wants to know them; and b) to encourage members to run without concern of being publicly embarrassed by lack of support.
+    This policy is intended to meet two objectives. a) to ensure that vote counts are not suppressed but remain easily obtainable by any member who wants to know them; and b) to encourage members to run without concern of being publicly embarrassed by lack of support.
 
 4. The Office ensures the election information, including the vote counts, is retained as required by AMIA's document retention policy.
 
@@ -395,13 +418,21 @@ To date, all ballot measures in AMIA elections have represented proposed changes
 
 The process of voting on a ballot measure closely parallels the process for a board election; and votes on ballet measures are usually (and most conveniently) scheduled to coincide with the annual election of officers and directors to the Board. Below is an outline of the voting process for a ballot measure, with references to board elections (Section VI) as applicable.
 
-A. Scheduling the Vote. The Board of Directors decides when during the year the vote is to be held. The Elections Committee establishes, announces and implements the schedule for conducting the vote.
+### A. Scheduling the Vote.
 
-B. Writing the Measure. The Board of Directors prepares or approves the official text of the ballot measure, and determines the appropriate requirements for passage. The Elections Committee reviews the text for errors and language of a partisan nature. While the Board has final authority over the official text, it works closely with the Committee to ensure that the measure is factually accurate and as objective as possible.
+The Board of Directors decides when during the year the vote is to be held. The Elections Committee establishes, announces and implements the schedule for conducting the vote.
 
-C. Selecting the Voting System. See Section VI, Paragraph C on selecting the voting system for board elections.
+###  B. Writing the Measure.
 
-D. Preparing the Ballot. The Elections Committee and the AMIA Office work together in gathering information for the vote and preparing the ballot.
+The Board of Directors prepares or approves the official text of the ballot measure, and determines the appropriate requirements for passage. The Elections Committee reviews the text for errors and language of a partisan nature. While the Board has final authority over the official text, it works closely with the Committee to ensure that the measure is factually accurate and as objective as possible.
+
+###  C. Selecting the Voting System.
+
+See Section VI, Paragraph C on selecting the voting system for board elections.
+
+### D. Preparing the Ballot.
+
+The Elections Committee and the AMIA Office work together in gathering information for the vote and preparing the ballot.
 
 1. The Committee obtains the official text of the ballot measure from the Board of Directors, and forwards it to the Office.
 
@@ -413,23 +444,31 @@ D. Preparing the Ballot. The Elections Committee and the AMIA Office work togeth
 
 5. The Committee signs-off on the complete electronic ballot and accompanying information. The Committee's approval is required before AMIA members are given access to the online voting system and, therefore, before voting can begin.
 
-E. Announcing the Vote. The Elections Committee announces the vote to the AMIA membership. The AMIA Office assists with the announcements, as requested by the Committee.
+### E. Announcing the Vote.
+
+The Elections Committee announces the vote to the AMIA membership. The AMIA Office assists with the announcements, as requested by the Committee.
 
 1. The Committee develops and implements an announcement plan, which may make use of the AMIA Newsletter, AMIA-Member list, AMIA-L, email blasts and/or special mailings. The Committee need not use all of these communication organs, but should not rely on only one to reach all eligible voters.
 
 2. The information announced to the AMIA membership should include: the text of the ballot measure; the schedule for voting, especially the date on which voting ends; and instructions for accessing the online voting system.
 
-F. Conducting the Voting. See Section VI, Paragraph F on conducting the voting for board elections.
+###  F. Conducting the Voting.
 
-G. Monitoring the Campaigns. The Elections Committee monitors campaigns in support of and in opposition to ballot measures to ensure that they are consistent with the Principles for Elections and Campaign Guidelines and Rules, as set out in Sections II and V of this manual. The Committee may take corrective actions in response to violations, as specified in Section III, Paragraph B.7 of this manual.
+See Section VI, Paragraph F on conducting the voting for board elections.
 
-H. Certifying the Vote. The Board of Directors retains ultimate authority to certify or decertify the vote; however the AMIA Office and the Elections Committee both play important roles in this process.
+### G. Monitoring the Campaigns.
+
+The Elections Committee monitors campaigns in support of and in opposition to ballot measures to ensure that they are consistent with the Principles for Elections and Campaign Guidelines and Rules, as set out in Sections II and V of this manual. The Committee may take corrective actions in response to violations, as specified in Section III, Paragraph B.7 of this manual.
+
+### H. Certifying the Vote.
+
+The Board of Directors retains ultimate authority to certify or decertify the vote; however the AMIA Office and the Elections Committee both play important roles in this process.
 
 1. Quorum Requirement. The Office calculates whether or not a quorum for the vote has been achieved. It reports this finding to the Committee, which confirms that this legal requirement has or has not been satisfied.
 
-a. If a quorum has been achieved, the Committee proceeds with vote counts.
+    a. If a quorum has been achieved, the Committee proceeds with vote counts.
 
-b. If a quorum has not been achieved, the Committee informs the Board that the vote is invalid. The Board then decides how to proceed under the AMIA Bylaws.
+    b. If a quorum has not been achieved, the Committee informs the Board that the vote is invalid. The Board then decides how to proceed under the AMIA Bylaws.
 
 2. Vote Counts. The Committee determines the final tally of votes for and against each ballot measure, as well as any percentages of votes required for passage. In so doing, at least two members of the Committee must independently check and agree on the tallies; the Office serves as a third witness to confirm the results.
 
@@ -437,18 +476,19 @@ b. If a quorum has not been achieved, the Committee informs the Board that the v
 
 4. Certification. The Board decides whether or not to certify the election. In so doing, the Board should be guided by the Committee's report and should overturn the Committee's recommendation only if confronted with clear and compelling reasons for taking such action.
 
-a. If the vote is certified, the Committee and Office proceed with releasing the results.
+    a. If the vote is certified, the Committee and Office proceed with releasing the results.
 
-b. If the vote is not certified, the Board decides how to proceed under the AMIA Bylaws.
+    b. If the vote is not certified, the Board decides how to proceed under the AMIA Bylaws.
 
 5. Dissent. In the event the Board chooses to overturn the Committee's recommendation, the Committee reserves the right to express its dissenting opinion to the AMIA membership.
 
-I. Releasing the Results. The Elections Committee announces the results of the vote to the AMIA membership. The AMIA Office assists with this announcement, as requested by the Committee.
+### I. Releasing the Results.
+
+The Elections Committee announces the results of the vote to the AMIA membership. The AMIA Office assists with this announcement, as requested by the Committee.
 
 1. The Committee announces the results of the vote, includng the total number of votes cast for and against each ballot measure, to the AMIA memberhip. In so doing, the Committee may use the AMIA Newsletter, AMIA-Member list, AMIA-L, an email blast and/or a special mailing.
 
 2. The Office ensures information concerning the vote, including the vote counts, is retained as required by AMIA's document retention policy.
-Page 26
 
 ## Section VIII: Committee of the Membership Elections
 
@@ -464,9 +504,9 @@ While variations are possible, the following procedures and protocols for struct
 
 1. General.
 
-a. All Chairperson candidates must be individual members of AMIA. Chairpersons may choose to stand for re-election.
+    a. All Chairperson candidates must be individual members of AMIA. Chairpersons may choose to stand for re-election.
 
-b. Each election must meet the quorum provision of AMIA's Bylaws, which requires that at least 25% of the Committee's members cast ballots, and to count the ballots in the case of paper balloting or, in the case of electronic balloting, to verify the election results.
+    b. Each election must meet the quorum provision of AMIA's Bylaws, which requires that at least 25% of the Committee's members cast ballots, and to count the ballots in the case of paper balloting or, in the case of electronic balloting, to verify the election results.
 
 2. Notification. The AMIA Office notifies a CM that it is required to hold an election. Notification should occur early during the election year and be sent to the CM's Chairperson and Board Liaison.
 
@@ -474,11 +514,11 @@ b. Each election must meet the quorum provision of AMIA's Bylaws, which requires
 
 4. Election.
 
-a. The AMIA Office forwards a call for candidates to members of the Committee, ensuring that each Committee member has a reasonable means and opportunity to recommend candidates, vote, and stand for election as Chairperson (or other officer) of the Committee.
+    a. The AMIA Office forwards a call for candidates to members of the Committee, ensuring that each Committee member has a reasonable means and opportunity to recommend candidates, vote, and stand for election as Chairperson (or other officer) of the Committee.
 
-b. The AMIA Office creates the ballot. The ballot is then certified by the Chairperson before it is sent to the roster. The Board Liaison is included in the balloting.
+    b. The AMIA Office creates the ballot. The ballot is then certified by the Chairperson before it is sent to the roster. The Board Liaison is included in the balloting.
 
-c. The AMIA Office sends the ballot to all members of the Committee, using the verified roster.
+    c. The AMIA Office sends the ballot to all members of the Committee, using the verified roster.
 
 5. Certifying the Election. The Chairperson and the Board Liaison share responsibility for certifying the election. Once the election is certified, the results are announced. If the election is not certified, the Board of Directors decides how to proceed under the AMIA Bylaws.
 
