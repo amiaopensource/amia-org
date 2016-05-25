@@ -558,11 +558,11 @@ Finally, a genuine interest in moving images and a commitment to the field is in
 
 ## Appendix B: Additional Resources
 
-AMIA Documents
+#### AMIA Documents
 
 The AMIA Bylaws. Available through Member Central on the AMIA web site at: http://www.amianet.org/resources/AMIAManuals/Bylaws_060501.pdf
 
-Additional Reading
+#### Additional Reading
 
 Cox, John B. (ed.). Professional Practices in Association Management. ASAE: Washington, DC. 2002
 
