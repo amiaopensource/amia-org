@@ -73,6 +73,24 @@ For the purpose of this document the following documents have been considered as
 
 > The Secretary gives notice of all meetings of the Board and may perform other such duties as may be delegated by the Board.
 
+The Secretary shall be the custodian of the seal of the Corporation and of the books and records and files thereof, and shall affix the seal of the Corporation to all papers and instruments requiring the same.
+
+[Bylaws](#amia-bylaws) Article V, Section 6
+
+The Secretary shall prepare or obtain and keep or cause to be kept, in the Corporation's archives or at such other place as the Executive Board may order (1) a minute book of all meetings of the Executive Board, reports of Committees of the Executive Board and Committees of the Membership and (2) the originals or copies of all reports, correspondence and other records of the Corporation which are necessary in documenting the activities of the Corporation.
+
+[Bylaws](#amia-bylaws) Article V, Section 6
+
+The Secretary shall keep, or cause to be kept, at the principal office in the State of California, the original or a copy of the Articles of Incorporation and Bylaws of the Corporation, as amended to date.
+
+[Bylaws](#amia-bylaws) Article V, Section 6
+
+The Secretary shall develop a records schedule for approval by the Executive Board and shall implement or cause to be implemented such schedule as approved.
+
+[Bylaws](#amia-bylaws) Article V, Section 6
+
+The Secretary shall give, or cause to be given, notice of all meetings of the Executive Board and any committees thereof and all meetings of members required by these Bylaws or by law to be given, and shall have such other powers and perform such other duties as may be delegated by the Executive Board.
+
 #### AMIA Treasurer
 
 [Board Guide](#guide-to-the-amia-board-of-directors) page 3
@@ -99,13 +117,39 @@ For the purpose of this document the following documents have been considered as
 
 > The Chief Financial Officer shall disburse the funds of the Corporation as may be ordered by the Executive Board, shall render to the President or the directors, whenever requested, an account of all transactions and of the financial condition of the Corporation, and shall have such other powers and perform such other duties as may be delegated by the Executive Board.  
 
+[Bylaws](#amia-bylaws) Article VI, Section 8
+
+The Secretary manages receipt of Committee minutes and reports.
+
+> The chairperson or contact person of each Committee of the Executive Board, or Committee of the Membership, shall forward to the Secretary minutes of meetings and all reports, correspondence and other records which are necessary in documenting the activities of the committee or group.
+
+
+[Bylaws](#amia-bylaws) Article III, Section 6 (Meetings of Members), d (Notice Requirements for Members' Meetings).iv (Affidavit of Mailing Notice)
+
+> (iv) An affidavit of the mailing of any notice of any members' meeting, or of the giving of such notice by other means, may be executed by the Secretary, or any Assistant Secretary, and if so executed, shall be filed and maintained in the Corporation's minute book.
+
+[Bylaws](#amia-bylaws) Article III, Section 6 (Meetings of Members), k (Proxies). i (Rights of Individual Members)
+
+Secretary role in voting by proxy.
+
+> Each Individual Member entitled to vote shall have the right to do so either in person or by one or more agents authorized by a written proxy, signed by the person and filed with the Secretary of the Corporation.
+
 #### AMIA Director of the Board
 
 ### AMIA Office
 
-### AMIA Committees of the Board
+### AMIA Committees
 
-#### Awards Committee
+[Bylaws](#amia-bylaws) Article VI, Section 8
 
-#### Elections Commitee
+The chairperson or contact person of each Committee of the Executive Board, or Committee of the Membership, shall forward to the Secretary minutes of meetings and all reports, correspondence and other records which are necessary in documenting the activities of the committee or group.
+
+#### AMIA Committees of the Board
+
+##### Awards Committee
+
+##### Elections Commitee
+
+#### AMIA Committees of the Membership
+
 
